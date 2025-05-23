@@ -5,7 +5,7 @@
 
 📂 Dataset
 
-Source: Kaggle Diwali Sales Dataset (Replace with real URL if applicable)
+Source: Kaggle Diwali Sales Dataset 
 
 Size: ~11251 rows
 
