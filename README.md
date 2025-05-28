@@ -27,10 +27,10 @@ Gender, Age Group, Marital Status, Occupation, Product Category, State, Orders, 
 - **Marital Status**: **Single women** are the top-spending demographic.
 - **Occupation**: Professionals in **IT** and **Healthcare** sectors lead in purchase volume.
 
-    ![Age Group Distribution](images/age-Group-Distribution.png)
+     ![Age Group Distribution](images/age-Group-Distribution.png)
 
     
-    ![Sales by Marital Status & Gender](images/gender_revenue_share.png)
+     ![Sales by Marital Status & Gender](images/gender_revenue_share.png)
 
 ---
 
@@ -40,16 +40,18 @@ Gender, Age Group, Marital Status, Occupation, Product Category, State, Orders, 
   - **Uttar Pradesh** leads with the highest number of orders and revenue (~₹19.3M).  
   - Followed by Maharashtra and Karnataka.
  
-  ![Sales by State](images/sales_by_state.png)
+   ![Sales by State](images/sales_by_state.png)
 
 - **Top Product Categories**:  
   - **Food**, **Electronics**, and **Clothing** dominate the sales chart.  
   - Stationery is the least among the top 10.
  
-  ![Top Categories](images/top_categories.png)
+   ![Top Categories](images/top_categories.png)
 
 - **Top Products by Revenue**:  
   - Product ID **P00265242** generated the highest individual product revenue (~₹540,136).
+ 
+   ![Top Products](images/top_products.png)
 
 
 ---
@@ -59,7 +61,7 @@ Gender, Age Group, Marital Status, Occupation, Product Category, State, Orders, 
 - The **51–55** age group records the highest **average order value (₹9,953.59)**.
 - Older age groups show higher per-order spending power despite lower order volume.
 
-![AOV by Age & Gender](images/aov_by_age.png)
+  ![AOV by Age & Gender](images/aov_by_age.png)
 
 ---
 
@@ -70,7 +72,7 @@ Gender, Age Group, Marital Status, Occupation, Product Category, State, Orders, 
 - Professionals from **IT** and **Healthcare** industries are top spenders.
 - **Agriculture** and **Veterinary** sectors show the lowest engagement.
 
-![Sales by Occupation](images/occupation_vs_category_heatmap.png)
+  ![Sales by Occupation](images/occupation_vs_category_heatmap.png)
 
 ---
 
@@ -78,7 +80,7 @@ Gender, Age Group, Marital Status, Occupation, Product Category, State, Orders, 
 
 - Females dominate the spending landscape, contributing to **~70%** of overall sales.
 
-![Revenue Share by Gender](images/gender_sales_pie_chart.png)
+  ![Revenue Share by Gender](images/Gender_pie_chart.png)
 
 ---
 ### 🖼️ 7. Visualizations Used
